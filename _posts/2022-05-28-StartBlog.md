@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: My First Blog here!
+---
 
 第一个blog
 刚刚结束了MSI半决赛，T1 3:0 G2
