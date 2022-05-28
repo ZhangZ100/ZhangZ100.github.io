@@ -6,7 +6,7 @@ permalink: /about/
 
 student at whu, like running... 
 
-runnint starter
+running starter
 
 
 ### More Information
